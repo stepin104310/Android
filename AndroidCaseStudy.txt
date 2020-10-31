@@ -1,0 +1,18 @@
+webservice
+localdatbase
+UI
+Java convenetion
+UI an Unit testing
+Recyclerview
+
+1) Login screen
+2) Recycler View - newsapi.org or developer.accuweather.com
+3) details page
+
+support tabs and phones 
+english and hindi
+material design for UI
+logs and java doc
+
+Good UI design
+Coding conventions and selection of data structure
